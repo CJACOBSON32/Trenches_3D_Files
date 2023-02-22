@@ -3,3 +3,10 @@
 *.exr
 thumbs/
 previews/
+
+# Remove unnecessary LODs
+*_LOD1*
+*_LOD2*
+*_LOD3*
+*_LOD4*
+*_LOD5*
